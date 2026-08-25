@@ -40,7 +40,7 @@ ylabel('Phase');
 title('Phase spectrum')
 ```
 ### CALCULATIONS:
-<img width="902" height="1600" alt="WhatsApp Image 2026-08-25 at 12 28 05" src="https://github.com/user-attachments/assets/499af7f7-b5e8-4a50-9551-0a58f28b45eb" />
+<img width="902" height="902" alt="WhatsApp Image 2026-08-25 at 12 28 05" src="https://github.com/user-attachments/assets/499af7f7-b5e8-4a50-9551-0a58f28b45eb" />
 
 ### SAMPLE OUTPUT:
 <img width="758" height="591" alt="Screenshot 2026-07-27 221018" src="https://github.com/user-attachments/assets/420eb246-eda9-40b8-87e5-95b6c3e93580" />
